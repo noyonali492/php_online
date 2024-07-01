@@ -10,7 +10,16 @@
         $name = "Noyon Ali";
 
         echo $name;
+        $n =5;
+        $s=5;
+           
+            echo "<br/>";
+            //$ diya start korte hobe
+            //Latter Diya Start korte hobe
+            // Number diya start kora jabe na
 
+        $sum=$n+$s;
+        echo $sum;
     
      
     ?>
